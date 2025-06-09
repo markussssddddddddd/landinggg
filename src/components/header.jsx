@@ -14,10 +14,15 @@ export const Header = (props) => {
                 </h1>
                 <p>{props.data ? props.data.paragraph : "Loading"}</p>
                 <a
-                  href="#features"
+                  href="https://web.telegram.org/a/#7257681287"
                   className="btn btn-custom btn-lg page-scroll"
+                  style={{
+                    fontSize: "2.4rem", // увеличиваем шрифт
+                    padding: "24px 48px", // увеличиваем отступы
+                    minWidth: "260px", // увеличиваем минимальную ширину
+                  }}
                 >
-                  Learn More
+                  Оформить заказ!
                 </a>{" "}
               </div>
             </div>

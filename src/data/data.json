@@ -1,160 +1,137 @@
 {
   "Header": {
-    "title": "We are a Landing Page",
-    "paragraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sed commodo nibh ante facilisis bibendum."
+    "title": "Пекарня - в чате!  Пироги - в пути!",
+    "paragraph": "Вкусная и полезная выпечка с доставкой по Минску"
   },
   "About": {
-    "paragraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+    "paragraph": "С первого заказа мы радеем о качестве нашей домашней выпечки. Нам важно, чтобы вам было вкусно. Мы печем и доставляем в тот же день. Мы дорожим каждым клиентом. Ваш заказ будет принят быстро и с должным вниманием. Пироги доставляются вовремя вежливым курьером",
     "Why": [
-      "Lorem ipsum dolor",
-      "Tempor incididunt",
-      "Lorem ipsum dolor",
-      "Incididunt ut labore"
+      "Домашний вкус - только без хлопот!",
+      "Начинки с щедрой душой - много мяса, ягод или сыра",
+      "Всегда свежие - пекутся под заказ и не лежат на полке",
+      "Быстрая доставка - привезем в течения 1-2 часов"
     ],
     "Why2": [
-      "Aliquip ex ea commodo",
-      "Lorem ipsum dolor",
-      "Exercitation ullamco",
-      "Lorem ipsum dolor"
+      "Ручная работа - никакой конвеер, только забота",
+      "Натуральные продукты - без маргарина и лишней химии",
+      "На любой случай - праздник, завтрак, подарок илил уютный вечер",
+      "Печем с любовью - это чувствуется с первого укуса!"
     ]
   },
   "Gallery": [
     {
-      "title": "Project Title",
+      "title": "Медовик",
       "largeImage": "img/portfolio/01-large.jpg",
       "smallImage": "img/portfolio/01-small.jpg"
     },
     {
-      "title": "Project Title",
+      "title": "Пирог том-ям с креветкой",
       "largeImage": "img/portfolio/02-large.jpg",
       "smallImage": "img/portfolio/02-small.jpg"
     },
     {
-      "title": "Project Title",
+      "title": "Пирог с малиной и манго",
       "largeImage": "img/portfolio/03-large.jpg",
       "smallImage": "img/portfolio/03-small.jpg"
     },
     {
-      "title": "Project Title",
+      "title": "Торт Шоколадный",
       "largeImage": "img/portfolio/04-large.jpg",
       "smallImage": "img/portfolio/04-small.jpg"
     },
     {
-      "title": "Project Title",
+      "title": "Пирог с персиками и франжипаном",
       "largeImage": "img/portfolio/05-large.jpg",
       "smallImage": "img/portfolio/05-small.jpg"
     },
     {
-      "title": "Project Title",
+      "title": "Пирог с пряным мясом и фасолью",
       "largeImage": "img/portfolio/06-large.jpg",
       "smallImage": "img/portfolio/06-small.jpg"
     },
     {
-      "title": "Project Title",
+      "title": "Пирог с курочкой и томатами",
       "largeImage": "img/portfolio/07-large.jpg",
       "smallImage": "img/portfolio/07-small.jpg"
     },
     {
-      "title": "Project Title",
+      "title": "Пирог с клубникой и рикоттой",
       "largeImage": "img/portfolio/08-large.jpg",
       "smallImage": "img/portfolio/08-small.jpg"
-    },
-    {
-      "title": "Project Title",
-      "largeImage": "img/portfolio/09-large.jpg",
-      "smallImage": "img/portfolio/09-small.jpg"
     }
   ],
   "Services": [
     {
-      "icon": "fa fa-wordpress",
-      "name": "Lorem ipsum dolor",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+       "icon": "fa fa-apple",
+      "name": "Лучшие продукты",
+      "text": "Мы честно готовим пироги только из натуральных и качественных продуктов, не используя консервантов, ароматизатров и красителей"
     },
     {
-      "icon": "fa fa-cart-arrow-down",
-      "name": "Consectetur adipiscing",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "icon": "fa fa-spoon",
+      "name": "Много начинки",
+      "text": "Наша задача – накормить вкусным и полезным продуктом. Вы удивитесь, но объем начинки в пирогах составляет 2/3 от общего веса."
     },
     {
-      "icon": "fa fa-cloud-download",
-      "name": "Lorem ipsum dolor",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
-    },
-    {
-      "icon": "fa fa-language",
-      "name": "Consectetur adipiscing",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
-    },
-    {
-      "icon": "fa fa-plane",
-      "name": "Lorem ipsum dolor",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
-    },
-    {
-      "icon": "fa fa-pie-chart",
-      "name": "Consectetur adipiscing",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "icon": "fa fa-birthday-cake",
+      "name": "Бездрожжевое тесто",
+"text": "Все пироги готовятся на песочно-творожном тесте с использованием качественного сливочного масла. В наших пирогах вы не найдете маргарина и дрожжей"
     }
+   
   ],
   "Testimonials": [
     {
       "img": "img/testimonials/01.jpg",
-      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-      "name": "John Doe"
+      "text": "Cпасибо! Очень вкусные пироги. С удовольствием обедаем!",
+      "name": "Стматология Стомкомплаенс"
     },
     {
       "img": "img/testimonials/02.jpg",
-      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-      "name": "Johnathan Doe"
+      "text": "Пироги вкусные. Всем понравились",
+      "name": "Ольга"
     },
     {
       "img": "img/testimonials/03.jpg",
-      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-      "name": "John Doe"
+      "text": "Заказываю пироги у Папапек уже несколько лет. Всегда всё на высшем уровне — вкус, свежесть, количество начинки. Видно, что люди действительно любят то, что делают. За все время успела попробовать почти всё из меню, включая торты — всё понравилось, без разочарований. Но есть и любимчики: пирог с малиной, манго и кремчизом, пирог с тунцом и черри, тарталетки и чизкейк. Благодарна, что есть такое место, где качество стабильно и с годами только растёт.",
+      "name": "Маргарита"
     },
-    {
-      "img": "img/testimonials/04.jpg",
-      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-      "name": "Johnathan Doe"
-    },
+    
     {
       "img": "img/testimonials/05.jpg",
-      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-      "name": "John Doe"
+      "text": "Нереально вкусные пироги) Лимонный пирог отдельная любовь. Обязательно попробуйте)",
+      "name": "Максим"
     },
     {
       "img": "img/testimonials/06.jpg",
-      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-      "name": "Johnathan Doe"
+      "text": "Очень вкусные пироги! Заказывали на празднование дня рождения в офис 7 пирогов, очень понравились все пироги, особенно с курицей и грибами, телятиной, овощной.",
+      "name": "Юлия"
     }
   ],
   "Team": [
     {
       "img": "img/team/01.jpg",
-      "name": "John Doe",
-      "job": "Director"
+      "name": "Евгений Герасимов",
+      "job": "Директор"
     },
     {
       "img": "img/team/02.jpg",
-      "name": "Mike Doe",
-      "job": "Senior Designer"
+      "name": "Светлана Герасимова",
+      "job": "Шеф-повар"
     },
     {
       "img": "img/team/03.jpg",
-      "name": "Jane Doe",
-      "job": "Senior Designer"
+      "name": "Вадим",
+      "job": "Курьер"
     },
     {
       "img": "img/team/04.jpg",
-      "name": "Karen Doe",
-      "job": "Project Manager"
+      "name": "Полинка",
+      "job": "Кондитер"
     }
   ],
   "Contact": {
-    "address": "4321 California St, San Francisco, CA 12345 ",
-    "phone": "+1 123 456 1234",
-    "email": "info@company.com",
+    "address": "г.Минск, Независимости 60, пер. Софьи Ковалевской 62 ",
+    "phone": "+375 29 343 52 00",
+    "email": "papapek@gmail.com",
     "facebook": "fb.com",
     "twitter": "twitter.com",
     "youtube": "youtube.com"
@@ -162,23 +139,23 @@
   "Features": [
     {
       "icon": "fa fa-comments-o",
-      "title": "Lorem ipsum",
-      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+      "title": "Вы оформляете заказ",
+      "text": "Заказы пирогов «день-в-день» принимаются до 12:00. Заказы на следующий день принимаются до 18:00. Заказы на выходные дни принимаются до 18:00 пятницы."
     },
     {
       "icon": "fa fa-bullhorn",
-      "title": "Lorem ipsum",
-      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+      "title": "Мы начинаем выпекать",
+      "text": "Начинаем готовить пироги, как только вы сделали заказ. Мы не храним готовую продукцию на полках."
     },
     {
       "icon": "fa fa-group",
-      "title": "Lorem ipsum",
-      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+      "title": "Доставляем вам заказ",
+      "text": "Доставляем пироги без задержек. Обычно это занимает 1-2 часа. Если вы хотите, чтобы пироги были доставлены в определенное время, пожалуйста, укажите это в комментарии к заказу."
     },
     {
       "icon": "fa fa-magic",
-      "title": "Lorem ipsum",
-      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+      "title": "Вы наслаждаетесь выпечкой",
+      "text": "Будем рады, если вы поделитесь с нами своими впечатлениями о нашей выпечке. Мы всегда рады вашим отзывам и предложениям. Вы можете оставить отзыв на нашем сайте или в социальных сетях."
     }
   ]
 }

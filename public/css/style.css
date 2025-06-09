@@ -609,3 +609,12 @@ label {
   box-shadow: none;
   border: none;
 }
+
+.row.display-flex {
+    display: flex;
+    flex-wrap: wrap;
+}
+.row.display-flex > [class*='col-'] {
+    display: flex;
+    flex-direction: column; /* Ensures content within the column also respects flexbox */
+}

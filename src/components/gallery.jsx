@@ -11,12 +11,12 @@ export const Gallery = (props) => {
             Наши самые любимые и вкусные позиции
           </p>
         </div>
-        <div className="row">
+        <div className="row display-flex">
           {props.data
             ? props.data.map((d, i) => (
                 <div
                   key={`${d.title}-${i}`}
-                  className="col-sm-6 col-md-4 col-lg-4"
+                  className="col-sm-6 col-md-4"
                 >
                   <Image
                     title={d.title}
